@@ -40,3 +40,15 @@ The code was made using Console Application with .Net Core.
 **Array de entrada**: `[A,B] [A,C] [B,D] [D,C]`
 
 **Resultado**: `Exceção E3`
+
+## Resposta
+
+O projeto que contem a resposta para a questã pode ser visto em: [Source code](./src/Pradigma)
+
+### Implementação base
+
+O arquivo de resposta pode ser lido em: [Solution](./src/Pradigma/PaisFilhos.cs)
+
+### Exemplo de uso
+
+Inicialização da aplicação console para uso da implementação: [Program](./src/Pradigma/Program.cs)

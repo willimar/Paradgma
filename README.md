@@ -23,6 +23,7 @@ The code was made using Console Application with .Net Core.
 ## Exemplo 1
 
 **Array de entrada**: `[A,B] [A,C] [B,G] [C,H] [E,F] [B,D] [C,E]`
+
 **Possíveis representações**:
 
 ![](tree.png)

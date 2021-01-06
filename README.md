@@ -81,3 +81,19 @@ Resultado esperado:
 | ------------ | ------ | ------- |
 | xxxx         | xxxxx  | ?       |
 | yyyy         | yyyy   | ?       |
+
+
+### Resposta
+
+  ```sql
+  select
+    Dept.Nome Departamento,
+    colab.Nome Pessoa,
+    colab.Salario Salario
+  from 
+    tbColaboradores colab
+    inner join tbDepartamento dept on (dept.Id = colab.DeptId)
+  order by
+    dept.Id,
+    colab.Salario desc
+```

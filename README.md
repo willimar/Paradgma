@@ -1,4 +1,4 @@
-# Paradgma
+# Paradigma
 
 This is a sample code to using recursive search on the tree.
 
